@@ -1,0 +1,2832 @@
+{
+  "applicants": [
+    {
+      "name": "Abdul Majeed Abdallah",
+      "id": "aa33",
+      "courses": [
+        "134"
+      ],
+      "refs": [
+        "bill jannen",
+        "shikha singh"
+      ]
+    },
+    {
+      "name": "Abel Mesfin",
+      "id": "agm6",
+      "courses": [
+        "136",
+        "256",
+        "134"
+      ],
+      "refs": [
+        "rohit bhattacharya",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Aditya Malhotra",
+      "id": "akm4",
+      "courses": [
+        "136"
+      ],
+      "refs": [
+        "bill jannen",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Akif Ismail",
+      "id": "ai6",
+      "courses": [
+        "136",
+        "237",
+        "256"
+      ],
+      "refs": [
+        "jim bern",
+        "rohit bhattacharya"
+      ]
+    },
+    {
+      "name": "Alessa Somer",
+      "id": "aas10",
+      "courses": [
+        "134",
+        "104"
+      ],
+      "refs": [
+        "rohit bhattacharya",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Alex Moon",
+      "id": "ahm2",
+      "courses": [
+        "136",
+        "134",
+        "104"
+      ],
+      "refs": [
+        "iris howley",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Alex Root",
+      "id": "asr6",
+      "courses": [
+        "237",
+        "256",
+        "136"
+      ],
+      "refs": [
+        "mark hopkins",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Amaka ",
+      "id": "aki1",
+      "courses": [
+        "134",
+        "104",
+        "136"
+      ],
+      "refs": [
+        "jim bern",
+        "rohit bhattacharya"
+      ]
+    },
+    {
+      "name": "Angus Li",
+      "id": "arl6",
+      "courses": [
+        "375"
+      ],
+      "refs": [
+        "katie keith",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Arman Rysmakhanov",
+      "id": "ar21",
+      "courses": [
+        "136",
+        "134",
+        "104"
+      ],
+      "refs": [
+        "katie keith",
+        "aaron williams"
+      ]
+    },
+    {
+      "name": "Ashley Loh",
+      "id": "al33",
+      "courses": [
+        "134",
+        "134",
+        "134"
+      ],
+      "refs": [
+        "lida doret",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Austin Osborn",
+      "id": "ado2",
+      "courses": [
+        "136",
+        "256",
+        "134"
+      ],
+      "refs": [
+        "jim bern",
+        "sam mccauley"
+      ]
+    },
+    {
+      "name": "Austina Xu",
+      "id": "atx1",
+      "courses": [
+        "134"
+      ],
+      "refs": [
+        "shikha singh",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Avery Allen",
+      "id": "aka2",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Ayooluwa Odeyinka",
+      "id": "ado3",
+      "courses": [
+        "104",
+        "104",
+        "104"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Basim Mutaal",
+      "id": "bm28",
+      "courses": [
+        "104",
+        "134"
+      ],
+      "refs": [
+        "jim bern",
+        "shikha singh"
+      ]
+    },
+    {
+      "name": "Benjamin Liu",
+      "id": "brl2",
+      "courses": [
+        "136"
+      ],
+      "refs": [
+        "lida doret",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Blayne Downer",
+      "id": "brd2",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "sam mccauley"
+      ]
+    },
+    {
+      "name": "Brij Howard-Sarin",
+      "id": "bch6",
+      "courses": [
+        "136",
+        "134",
+        "237"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Cara Sturdevant",
+      "id": "cs27",
+      "courses": [
+        "104"
+      ],
+      "refs": [
+        "steve freund",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Carolyn Jones",
+      "id": "cnj1",
+      "courses": [
+        "104",
+        "334",
+        "134"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Charlie Tantum",
+      "id": "cjt3",
+      "courses": [
+        "136",
+        "104",
+        "134"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Charlie Tharas",
+      "id": "cmt8",
+      "courses": [
+        "136",
+        "134",
+        "237"
+      ],
+      "refs": [
+        "jim bern",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Charlotte Chen",
+      "id": "cjc11",
+      "courses": [
+        "136",
+        "256",
+        "134"
+      ],
+      "refs": [
+        "jim bern",
+        "sam mccauley"
+      ]
+    },
+    {
+      "name": "Chris Pohlmann",
+      "id": "cp15",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "katie keith"
+      ]
+    },
+    {
+      "name": "Daniel Zhang",
+      "id": "ddz1",
+      "courses": [
+        "256",
+        "361",
+        "136"
+      ],
+      "refs": [
+        "bill jannen",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "David Wang",
+      "id": "dw8",
+      "courses": [
+        "134",
+        "237"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Dimitri Meimeteas",
+      "id": "dem6",
+      "courses": [
+        "136",
+        "237",
+        "134"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Douglas Pineda Gutierrez",
+      "id": "djp5",
+      "courses": [
+        "134",
+        "136",
+        "237"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Elijah Wu",
+      "id": "ew14",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Ella Sobhani",
+      "id": "ess3",
+      "courses": [
+        "256",
+        "134",
+        "136"
+      ],
+      "refs": [
+        "katie keith",
+        "steve freund"
+      ]
+    },
+    {
+      "name": "Elyes Laalai",
+      "id": "el12",
+      "courses": [
+        "104",
+        "134",
+        "136"
+      ],
+      "refs": [
+        "sam mccauley",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Emma Li",
+      "id": "ebl2",
+      "courses": [
+        "136",
+        "237"
+      ],
+      "refs": [
+        "jim bern",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Ezra Joffe-Hancock",
+      "id": "ewj1",
+      "courses": [
+        "136",
+        "256",
+        "134"
+      ],
+      "refs": [
+        "bill jannen",
+        "iris howley"
+      ]
+    },
+    {
+      "name": "Gavin Xia",
+      "id": "gx1",
+      "courses": [
+        "237",
+        "256",
+        "136"
+      ],
+      "refs": [
+        "jim bern",
+        "sam mccauley"
+      ]
+    },
+    {
+      "name": "Greta Laesch",
+      "id": "gml2",
+      "courses": [
+        "104",
+        "134",
+        "136"
+      ],
+      "refs": [
+        "steve freund",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Harry Albert",
+      "id": "hsa1",
+      "courses": [
+        "136",
+        "134",
+        "256"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Harry Du",
+      "id": "hd10",
+      "courses": [
+        "136",
+        "134",
+        "104"
+      ],
+      "refs": [
+        "jim bern",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Helen Qian",
+      "id": "htq1",
+      "courses": [
+        "256",
+        "136",
+        "237"
+      ],
+      "refs": [
+        "aaron williams",
+        "rohit bhattacharya"
+      ]
+    },
+    {
+      "name": "Henok Misgina Fisseha",
+      "id": "hf7",
+      "courses": [
+        "136",
+        "256",
+        "134"
+      ],
+      "refs": [
+        "rohit bhattacharya",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Himal Pandey",
+      "id": "hrp3",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "rohit bhattacharya",
+        "kelly shaw"
+      ]
+    },
+    {
+      "name": "Ina Ocelli",
+      "id": "io1",
+      "courses": [
+        "134",
+        "104"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Jackson Davis",
+      "id": "jhd1",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Jacob Cohen",
+      "id": "jc34",
+      "courses": [
+        "136",
+        "134",
+        "256"
+      ],
+      "refs": [
+        "katie keith",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Jane Ladaga",
+      "id": "jgl4",
+      "courses": [
+        "134",
+        "104"
+      ],
+      "refs": [
+        "shikha singh",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Jarin Sutton",
+      "id": "jgs4",
+      "courses": [
+        "136",
+        "134",
+        "104"
+      ],
+      "refs": [
+        "katie keith",
+        "iris howley"
+      ]
+    },
+    {
+      "name": "Jeeyon Kang",
+      "id": "jk26",
+      "courses": [
+        "256",
+        "136"
+      ],
+      "refs": [
+        "sam mccauley",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Jenny Patel",
+      "id": "jsp5",
+      "courses": [
+        "134",
+        "136"
+      ],
+      "refs": [
+        "iris howley",
+        "katie keith"
+      ]
+    },
+    {
+      "name": "Jocelyn Bliven",
+      "id": "jmb13",
+      "courses": [
+        "134",
+        "136",
+        "361"
+      ],
+      "refs": [
+        "sam mccauley",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Joseph Gallegos",
+      "id": "jag22",
+      "courses": [
+        "136"
+      ],
+      "refs": [
+        "katie keith",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Juan Mendez",
+      "id": "jjm9",
+      "courses": [
+        "104",
+        "256",
+        "381"
+      ],
+      "refs": [
+        "katie keith",
+        "steve freund"
+      ]
+    },
+    {
+      "name": "Karolina Kotlarz",
+      "id": "kdk3",
+      "courses": [
+        "136",
+        "237",
+        "134"
+      ],
+      "refs": [
+        "jim bern",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Kye Kang",
+      "id": "kk12",
+      "courses": [
+        "134"
+      ],
+      "refs": [
+        "shikha singh",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Lauren Hall",
+      "id": "lkh3",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "rohit bhattacharya"
+      ]
+    },
+    {
+      "name": "Leah Williams",
+      "id": "lcw4",
+      "courses": [
+        "256",
+        "361"
+      ],
+      "refs": [
+        "aaron williams",
+        "sam mccauley"
+      ]
+    },
+    {
+      "name": "Lee Mabhena",
+      "id": "lnm1",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "dan barowy",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Liz Mirra de Carvalho Rachid",
+      "id": "lm24",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "mark hopkins"
+      ]
+    },
+    {
+      "name": "Lola Kovalski",
+      "id": "lgk1",
+      "courses": [
+        "136"
+      ],
+      "refs": [
+        "jim bern",
+        "mark hopkins"
+      ]
+    },
+    {
+      "name": "Luis Leon",
+      "id": "lal4",
+      "courses": [
+        "104",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "shikha singh"
+      ]
+    },
+    {
+      "name": "Maddy Andersen",
+      "id": "mia1",
+      "courses": [
+        "256",
+        "136",
+        "376"
+      ],
+      "refs": [
+        "dan barowy",
+        "iris howley"
+      ]
+    },
+    {
+      "name": "Maia Wang",
+      "id": "myw1",
+      "courses": [
+        "334",
+        "136",
+        "256"
+      ],
+      "refs": [
+        "jim bern",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Matt Laws",
+      "id": "mdl4",
+      "courses": [
+        "381",
+        "237",
+        "136"
+      ],
+      "refs": [
+        "jim bern",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "May Blair",
+      "id": "mcb12",
+      "courses": [
+        "134",
+        "136",
+        "104"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Maymouna Bah ",
+      "id": "mb33",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "dan barowy",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Melanie Wang",
+      "id": "dingdangbmw",
+      "courses": [
+        "136",
+        "104",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "rohit bhattacharya"
+      ]
+    },
+    {
+      "name": "Michael Faulkner",
+      "id": "mjf5",
+      "courses": [
+        "381",
+        "256",
+        "136"
+      ],
+      "refs": [
+        "sam mccauley",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Michael Fay",
+      "id": "mf14",
+      "courses": [
+        "134"
+      ],
+      "refs": [
+        "mark hopkins",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Michelle Wang",
+      "id": "mw20",
+      "courses": [
+        "256",
+        "334",
+        "136"
+      ],
+      "refs": [
+        "sam mccauley",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Nathan Vosburg",
+      "id": "njv1",
+      "courses": [
+        "237",
+        "136",
+        "134"
+      ],
+      "refs": [
+        "jim bern",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Nathaniel Snow",
+      "id": "nss3",
+      "courses": [
+        "136",
+        "134",
+        "104"
+      ],
+      "refs": [
+        "jim bern",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Nathaniel Tunggal",
+      "id": "ngt2",
+      "courses": [
+        "381",
+        "361"
+      ],
+      "refs": [
+        "aaron williams",
+        "aaron williams"
+      ]
+    },
+    {
+      "name": "Nick Canora",
+      "id": "njc2",
+      "courses": [
+        "136",
+        "237",
+        "134"
+      ],
+      "refs": [
+        "jim bern",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Nikhil Radosevich",
+      "id": "nr10",
+      "courses": [
+        "136",
+        "134",
+        "104"
+      ],
+      "refs": [
+        "jim bern",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Nikki Lee",
+      "id": "nl14",
+      "courses": [
+        "334",
+        "134"
+      ],
+      "refs": [
+        "rohit bhattacharya",
+        "shikha singh"
+      ]
+    },
+    {
+      "name": "Onyeraluobu Chibuogwu ",
+      "id": "occ1",
+      "courses": [
+        "136",
+        "134",
+        "104"
+      ],
+      "refs": [
+        "jim bern",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Prairie Resch",
+      "id": "pcr1",
+      "courses": [
+        "136",
+        "256",
+        "334"
+      ],
+      "refs": [
+        "dan barowy",
+        "rohit bhattacharya"
+      ]
+    },
+    {
+      "name": "Priya Rajbhandary",
+      "id": "pr5",
+      "courses": [
+        "136",
+        "134",
+        "237"
+      ],
+      "refs": [
+        "jim bern",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Riya Juneja",
+      "id": "rj6",
+      "courses": [
+        "134",
+        "136",
+        "237"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Sam Wexler",
+      "id": "saw9",
+      "courses": [
+        "256",
+        "136",
+        "334"
+      ],
+      "refs": [
+        "jim bern",
+        "katie keith"
+      ]
+    },
+    {
+      "name": "Serah Park",
+      "id": "sp29",
+      "courses": [
+        "136",
+        "256",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Shirel Quintanilla",
+      "id": "zsq1",
+      "courses": [
+        "136",
+        "104",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "iris howley"
+      ]
+    },
+    {
+      "name": "Simon Angoluan ",
+      "id": "sca1",
+      "courses": [
+        "375",
+        "256"
+      ],
+      "refs": [
+        "rohit bhattacharya",
+        "katie keith"
+      ]
+    },
+    {
+      "name": "Skylar Yarter",
+      "id": "soy1",
+      "courses": [
+        "136",
+        "134",
+        "237"
+      ],
+      "refs": [
+        "jeannie albrecht",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Sokpean Uy",
+      "id": "Su1",
+      "courses": [
+        "104",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "shikha singh"
+      ]
+    },
+    {
+      "name": "Stella Oh",
+      "id": "sjo2",
+      "courses": [
+        "256",
+        "361",
+        "136"
+      ],
+      "refs": [
+        "dan barowy",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Sumaiya Sayeed",
+      "id": "ss54",
+      "courses": [
+        "104",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Susanna Boberg",
+      "id": "sjb5",
+      "courses": [
+        "136",
+        "256",
+        "134"
+      ],
+      "refs": [
+        "sam mccauley",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Tanatswa Manyakara",
+      "id": "tum1",
+      "courses": [
+        "237",
+        "136"
+      ],
+      "refs": [
+        "bill jannen",
+        "dan barowy"
+      ]
+    },
+    {
+      "name": "Tashrique Ahmed",
+      "id": "ta13",
+      "courses": [
+        "134",
+        "334",
+        "136"
+      ],
+      "refs": [
+        "dan barowy",
+        "mark hopkins"
+      ]
+    },
+    {
+      "name": "Tenzin Tselha",
+      "id": "tt9",
+      "courses": [
+        "134"
+      ],
+      "refs": [
+        "shikha singh",
+        "lida doret"
+      ]
+    },
+    {
+      "name": "Timothy Felten",
+      "id": "tef2",
+      "courses": [
+        "134",
+        "237",
+        "136"
+      ],
+      "refs": [
+        "lida doret",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Timothy Kim",
+      "id": "tyk1",
+      "courses": [
+        "256",
+        "136",
+        "134"
+      ],
+      "refs": [
+        "bill jannen",
+        "sam mccauley"
+      ]
+    },
+    {
+      "name": "Trung Nguyen",
+      "id": "ttn2",
+      "courses": [
+        "256",
+        "134",
+        "136"
+      ],
+      "refs": [
+        "sam mccauley",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Tryphena Bossman",
+      "id": "tb13",
+      "courses": [
+        "134"
+      ],
+      "refs": [
+        "bill jannen",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Valeria",
+      "id": "vs9",
+      "courses": [
+        "134",
+        "136",
+        "237"
+      ],
+      "refs": [
+        "dan barowy",
+        "kelly shaw"
+      ]
+    },
+    {
+      "name": "Viki Fernandez",
+      "id": "vf4",
+      "courses": [
+        "256",
+        "136",
+        "237"
+      ],
+      "refs": [
+        "sam mccauley",
+        "bill jannen"
+      ]
+    },
+    {
+      "name": "Wyatt Smith",
+      "id": "wos1",
+      "courses": [
+        "136",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "jim bern"
+      ]
+    },
+    {
+      "name": "Yanni Kakouris",
+      "id": "yik1",
+      "courses": [
+        "136",
+        "237",
+        "134"
+      ],
+      "refs": [
+        "jim bern",
+        "jeannie albrecht"
+      ]
+    },
+    {
+      "name": "Zachary Borzio",
+      "id": "zmb3",
+      "courses": [
+        "104",
+        "134"
+      ],
+      "refs": [
+        "katie keith",
+        "shikha singh"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": "136",
+      "applicants": [
+        {
+          "id": "aka2",
+          "rating": "B"
+        },
+        {
+          "id": "jc34",
+          "rating": "A"
+        },
+        {
+          "id": "brl2",
+          "rating": "A"
+        },
+        {
+          "id": "ew14",
+          "rating": "B"
+        },
+        {
+          "id": "tum1",
+          "rating": "B"
+        },
+        {
+          "id": "dingdangbmw",
+          "rating": "C"
+        },
+        {
+          "id": "mw20",
+          "rating": "A"
+        },
+        {
+          "id": "ta13",
+          "rating": "B"
+        },
+        {
+          "id": "njv1",
+          "rating": "A"
+        },
+        {
+          "id": "gx1",
+          "rating": "B"
+        },
+        {
+          "id": "hsa1",
+          "rating": "A"
+        },
+        {
+          "id": "akm4",
+          "rating": "B"
+        },
+        {
+          "id": "ess3",
+          "rating": "B"
+        },
+        {
+          "id": "jsp5",
+          "rating": "B"
+        },
+        {
+          "id": "occ1",
+          "rating": "B"
+        },
+        {
+          "id": "ebl2",
+          "rating": "A"
+        },
+        {
+          "id": "ahm2",
+          "rating": "B"
+        },
+        {
+          "id": "kdk3",
+          "rating": "A"
+        },
+        {
+          "id": "tef2",
+          "rating": "A"
+        },
+        {
+          "id": "mb33",
+          "rating": "A"
+        },
+        {
+          "id": "njc2",
+          "rating": "A"
+        },
+        {
+          "id": "el12",
+          "rating": "B"
+        },
+        {
+          "id": "jk26",
+          "rating": "B"
+        },
+        {
+          "id": "pcr1",
+          "rating": "A"
+        },
+        {
+          "id": "jag22",
+          "rating": "A"
+        },
+        {
+          "id": "cjc11",
+          "rating": "A"
+        },
+        {
+          "id": "gml2",
+          "rating": "B"
+        },
+        {
+          "id": "sp29",
+          "rating": "A"
+        },
+        {
+          "id": "asr6",
+          "rating": "B"
+        },
+        {
+          "id": "ar21",
+          "rating": "B"
+        },
+        {
+          "id": "soy1",
+          "rating": "A"
+        },
+        {
+          "id": "cmt8",
+          "rating": "A"
+        },
+        {
+          "id": "zsq1",
+          "rating": "B"
+        },
+        {
+          "id": "rj6",
+          "rating": "B"
+        },
+        {
+          "id": "htq1",
+          "rating": "A"
+        },
+        {
+          "id": "nr10",
+          "rating": "A"
+        },
+        {
+          "id": "dem6",
+          "rating": "B"
+        },
+        {
+          "id": "yik1",
+          "rating": "A"
+        },
+        {
+          "id": "jmb13",
+          "rating": "A"
+        },
+        {
+          "id": "hrp3",
+          "rating": "B"
+        },
+        {
+          "id": "lnm1",
+          "rating": "B"
+        },
+        {
+          "id": "aki1",
+          "rating": "B"
+        },
+        {
+          "id": "cjt3",
+          "rating": "A"
+        },
+        {
+          "id": "mdl4",
+          "rating": "A"
+        },
+        {
+          "id": "mcb12",
+          "rating": "A"
+        },
+        {
+          "id": "jgs4",
+          "rating": "B"
+        },
+        {
+          "id": "ai6",
+          "rating": "B"
+        },
+        {
+          "id": "myw1",
+          "rating": "A"
+        },
+        {
+          "id": "ttn2",
+          "rating": "B"
+        },
+        {
+          "id": "agm6",
+          "rating": "B"
+        },
+        {
+          "id": "vs9",
+          "rating": "B"
+        },
+        {
+          "id": "ado2",
+          "rating": "A"
+        },
+        {
+          "id": "wos1",
+          "rating": "A"
+        },
+        {
+          "id": "mjf5",
+          "rating": "A"
+        },
+        {
+          "id": "jhd1",
+          "rating": "A"
+        },
+        {
+          "id": "ddz1",
+          "rating": "B"
+        },
+        {
+          "id": "brd2",
+          "rating": "B"
+        },
+        {
+          "id": "vf4",
+          "rating": "B"
+        },
+        {
+          "id": "hf7",
+          "rating": "A"
+        },
+        {
+          "id": "lkh3",
+          "rating": "B"
+        },
+        {
+          "id": "pr5",
+          "rating": "A"
+        },
+        {
+          "id": "lm24",
+          "rating": "A"
+        },
+        {
+          "id": "ewj1",
+          "rating": "B"
+        },
+        {
+          "id": "bch6",
+          "rating": "A"
+        },
+        {
+          "id": "sjo2",
+          "rating": "B"
+        },
+        {
+          "id": "hd10",
+          "rating": "A"
+        },
+        {
+          "id": "lgk1",
+          "rating": "A"
+        },
+        {
+          "id": "saw9",
+          "rating": "A"
+        },
+        {
+          "id": "cp15",
+          "rating": "B"
+        },
+        {
+          "id": "nss3",
+          "rating": "A"
+        },
+        {
+          "id": "sjb5",
+          "rating": "C"
+        },
+        {
+          "id": "tyk1",
+          "rating": "C"
+        },
+        {
+          "id": "mia1",
+          "rating": "A"
+        },
+        {
+          "id": "djp5",
+          "rating": "A"
+        }
+      ],
+      "roster": [
+        {
+          "id": "hd10",
+          "status": "tentative"
+        },
+        {
+          "id": "hf7",
+          "status": "tentative"
+        },
+        {
+          "id": "kdk3",
+          "status": "tentative"
+        },
+        {
+          "id": "lgk1",
+          "status": "tentative"
+        },
+        {
+          "id": "soy1",
+          "status": "tentative"
+        },
+        {
+          "id": "jhh3",
+          "status": "tentative"
+        },
+        {
+          "id": "wos1",
+          "status": "tentative"
+        },
+        {
+          "id": "ebl2",
+          "status": "tentative"
+        },
+        {
+          "id": "pcr1",
+          "status": "tentative"
+        },
+        {
+          "id": "lm24",
+          "status": "tentative"
+        },
+        {
+          "id": "jc34",
+          "status": "tentative"
+        },
+        {
+          "id": "yik1",
+          "status": "tentative"
+        },
+        {
+          "id": "cmt8",
+          "status": "tentative"
+        },
+        {
+          "id": "brl2",
+          "status": "tentative"
+        },
+        {
+          "id": "hsa1",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "applicants": [
+        {
+          "id": "aka2",
+          "rating": "C"
+        },
+        {
+          "id": "jc34",
+          "rating": "C"
+        },
+        {
+          "id": "ew14",
+          "rating": "C"
+        },
+        {
+          "id": "dingdangbmw",
+          "rating": "C"
+        },
+        {
+          "id": "ta13",
+          "rating": "C"
+        },
+        {
+          "id": "njv1",
+          "rating": "C"
+        },
+        {
+          "id": "aa33",
+          "rating": "A"
+        },
+        {
+          "id": "hsa1",
+          "rating": "A"
+        },
+        {
+          "id": "cnj1",
+          "rating": "A"
+        },
+        {
+          "id": "ess3",
+          "rating": "A"
+        },
+        {
+          "id": "io1",
+          "rating": "B"
+        },
+        {
+          "id": "jsp5",
+          "rating": "C"
+        },
+        {
+          "id": "aas10",
+          "rating": "A"
+        },
+        {
+          "id": "occ1",
+          "rating": "C"
+        },
+        {
+          "id": "ahm2",
+          "rating": "B"
+        },
+        {
+          "id": "Su1",
+          "rating": "C"
+        },
+        {
+          "id": "kdk3",
+          "rating": "C"
+        },
+        {
+          "id": "tef2",
+          "rating": "A"
+        },
+        {
+          "id": "mb33",
+          "rating": "A"
+        },
+        {
+          "id": "njc2",
+          "rating": "C"
+        },
+        {
+          "id": "el12",
+          "rating": "C"
+        },
+        {
+          "id": "cjc11",
+          "rating": "C"
+        },
+        {
+          "id": "ss54",
+          "rating": "C"
+        },
+        {
+          "id": "gml2",
+          "rating": "A"
+        },
+        {
+          "id": "sp29",
+          "rating": "A"
+        },
+        {
+          "id": "lal4",
+          "rating": "C"
+        },
+        {
+          "id": "ar21",
+          "rating": "C"
+        },
+        {
+          "id": "soy1",
+          "rating": "C"
+        },
+        {
+          "id": "tb13",
+          "rating": "B"
+        },
+        {
+          "id": "cmt8",
+          "rating": "C"
+        },
+        {
+          "id": "zsq1",
+          "rating": "C"
+        },
+        {
+          "id": "rj6",
+          "rating": "C"
+        },
+        {
+          "id": "tt9",
+          "rating": "B"
+        },
+        {
+          "id": "nr10",
+          "rating": "C"
+        },
+        {
+          "id": "dem6",
+          "rating": "C"
+        },
+        {
+          "id": "zmb3",
+          "rating": "C"
+        },
+        {
+          "id": "yik1",
+          "rating": "C"
+        },
+        {
+          "id": "kk12",
+          "rating": "A"
+        },
+        {
+          "id": "jmb13",
+          "rating": "A"
+        },
+        {
+          "id": "hrp3",
+          "rating": "C"
+        },
+        {
+          "id": "lnm1",
+          "rating": "B"
+        },
+        {
+          "id": "aki1",
+          "rating": "C"
+        },
+        {
+          "id": "cjt3",
+          "rating": "C"
+        },
+        {
+          "id": "dw8",
+          "rating": "A"
+        },
+        {
+          "id": "nl14",
+          "rating": "C"
+        },
+        {
+          "id": "mcb12",
+          "rating": "A"
+        },
+        {
+          "id": "jgs4",
+          "rating": "C"
+        },
+        {
+          "id": "ttn2",
+          "rating": "A"
+        },
+        {
+          "id": "agm6",
+          "rating": "C"
+        },
+        {
+          "id": "vs9",
+          "rating": "C"
+        },
+        {
+          "id": "al33",
+          "rating": "A"
+        },
+        {
+          "id": "al33",
+          "rating": "A"
+        },
+        {
+          "id": "al33",
+          "rating": "A"
+        },
+        {
+          "id": "ado2",
+          "rating": "A"
+        },
+        {
+          "id": "wos1",
+          "rating": "C"
+        },
+        {
+          "id": "mf14",
+          "rating": "C"
+        },
+        {
+          "id": "jhd1",
+          "rating": "A"
+        },
+        {
+          "id": "brd2",
+          "rating": "C"
+        },
+        {
+          "id": "hf7",
+          "rating": "A"
+        },
+        {
+          "id": "lkh3",
+          "rating": "C"
+        },
+        {
+          "id": "pr5",
+          "rating": "C"
+        },
+        {
+          "id": "lm24",
+          "rating": "C"
+        },
+        {
+          "id": "ewj1",
+          "rating": "A"
+        },
+        {
+          "id": "bch6",
+          "rating": "C"
+        },
+        {
+          "id": "hd10",
+          "rating": "C"
+        },
+        {
+          "id": "jgl4",
+          "rating": "A"
+        },
+        {
+          "id": "cp15",
+          "rating": "A"
+        },
+        {
+          "id": "nss3",
+          "rating": "C"
+        },
+        {
+          "id": "sjb5",
+          "rating": "C"
+        },
+        {
+          "id": "bm28",
+          "rating": "B"
+        },
+        {
+          "id": "tyk1",
+          "rating": "C"
+        },
+        {
+          "id": "djp5",
+          "rating": "C"
+        },
+        {
+          "id": "atx1",
+          "rating": "C"
+        }
+      ],
+      "roster": [
+        {
+          "id": "aas10",
+          "status": "approved"
+        },
+        {
+          "id": "kk12",
+          "status": "tentative"
+        },
+        {
+          "id": "jsp5",
+          "status": "tentative"
+        },
+        {
+          "id": "mcb12",
+          "status": "approved"
+        },
+        {
+          "id": "tef2",
+          "status": "tentative"
+        },
+        {
+          "id": "jhd1",
+          "status": "tentative"
+        },
+        {
+          "id": "ess3",
+          "status": "tentative"
+        },
+        {
+          "id": "mb33",
+          "status": "tentative"
+        },
+        {
+          "id": "sp29",
+          "status": "tentative"
+        },
+        {
+          "id": "ttn2",
+          "status": "tentative"
+        },
+        {
+          "id": "ewj1",
+          "status": "tentative"
+        },
+        {
+          "id": "jgl4",
+          "status": "tentative"
+        },
+        {
+          "id": "pr5",
+          "status": "tentative"
+        },
+        {
+          "id": "vs9",
+          "status": "tentative"
+        },
+        {
+          "id": "djp5",
+          "status": "tentative"
+        },
+        {
+          "id": "tb13",
+          "status": "tentative"
+        },
+        {
+          "id": "atx1",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "id": "256",
+      "applicants": [
+        {
+          "id": "jc34",
+          "rating": "A"
+        },
+        {
+          "id": "mw20",
+          "rating": "B"
+        },
+        {
+          "id": "gx1",
+          "rating": "C"
+        },
+        {
+          "id": "hsa1",
+          "rating": "A"
+        },
+        {
+          "id": "ess3",
+          "rating": "C"
+        },
+        {
+          "id": "jk26",
+          "rating": "B"
+        },
+        {
+          "id": "pcr1",
+          "rating": "A"
+        },
+        {
+          "id": "cjc11",
+          "rating": "C"
+        },
+        {
+          "id": "sp29",
+          "rating": "C"
+        },
+        {
+          "id": "asr6",
+          "rating": "C"
+        },
+        {
+          "id": "htq1",
+          "rating": "A"
+        },
+        {
+          "id": "ai6",
+          "rating": "C"
+        },
+        {
+          "id": "myw1",
+          "rating": "B"
+        },
+        {
+          "id": "ttn2",
+          "rating": "C"
+        },
+        {
+          "id": "agm6",
+          "rating": "C"
+        },
+        {
+          "id": "ado2",
+          "rating": "A"
+        },
+        {
+          "id": "jjm9",
+          "rating": "B"
+        },
+        {
+          "id": "mjf5",
+          "rating": "A"
+        },
+        {
+          "id": "ddz1",
+          "rating": "A"
+        },
+        {
+          "id": "vf4",
+          "rating": "B"
+        },
+        {
+          "id": "hf7",
+          "rating": "C"
+        },
+        {
+          "id": "ewj1",
+          "rating": "C"
+        },
+        {
+          "id": "sjo2",
+          "rating": "A"
+        },
+        {
+          "id": "saw9",
+          "rating": "A"
+        },
+        {
+          "id": "sca1",
+          "rating": "C"
+        },
+        {
+          "id": "sjb5",
+          "rating": "C"
+        },
+        {
+          "id": "tyk1",
+          "rating": "C"
+        },
+        {
+          "id": "mia1",
+          "rating": "A"
+        },
+        {
+          "id": "lcw4",
+          "rating": "A"
+        }
+      ],
+      "roster": [
+        {
+          "id": "htq1",
+          "status": "tentative"
+        },
+        {
+          "id": "saw9",
+          "status": "tentative"
+        },
+        {
+          "id": "sjo2",
+          "status": "tentative"
+        },
+        {
+          "id": "mia1",
+          "status": "tentative"
+        },
+        {
+          "id": "ado2",
+          "status": "tentative"
+        },
+        {
+          "id": "cjt3",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "id": "237",
+      "applicants": [
+        {
+          "id": "tum1",
+          "rating": "B"
+        },
+        {
+          "id": "njv1",
+          "rating": "C"
+        },
+        {
+          "id": "gx1",
+          "rating": "A"
+        },
+        {
+          "id": "ebl2",
+          "rating": "C"
+        },
+        {
+          "id": "kdk3",
+          "rating": "C"
+        },
+        {
+          "id": "tef2",
+          "rating": "C"
+        },
+        {
+          "id": "njc2",
+          "rating": "C"
+        },
+        {
+          "id": "asr6",
+          "rating": "A"
+        },
+        {
+          "id": "soy1",
+          "rating": "C"
+        },
+        {
+          "id": "cmt8",
+          "rating": "C"
+        },
+        {
+          "id": "rj6",
+          "rating": "C"
+        },
+        {
+          "id": "htq1",
+          "rating": "A"
+        },
+        {
+          "id": "dem6",
+          "rating": "C"
+        },
+        {
+          "id": "yik1",
+          "rating": "C"
+        },
+        {
+          "id": "mdl4",
+          "rating": "A"
+        },
+        {
+          "id": "dw8",
+          "rating": "C"
+        },
+        {
+          "id": "ai6",
+          "rating": "C"
+        },
+        {
+          "id": "vs9",
+          "rating": "A"
+        },
+        {
+          "id": "vf4",
+          "rating": "A"
+        },
+        {
+          "id": "pr5",
+          "rating": "C"
+        },
+        {
+          "id": "bch6",
+          "rating": "C"
+        },
+        {
+          "id": "djp5",
+          "rating": "C"
+        }
+      ],
+      "roster": [
+        {
+          "id": "tum1",
+          "status": "tentative"
+        },
+        {
+          "id": "dw8",
+          "status": "tentative"
+        },
+        {
+          "id": "njc2",
+          "status": "tentative"
+        },
+        {
+          "id": "njv1",
+          "status": "tentative"
+        },
+        {
+          "id": "mw20",
+          "status": "tentative"
+        },
+        {
+          "id": "bch6",
+          "status": "tentative"
+        },
+        {
+          "id": "rj6",
+          "status": "tentative"
+        },
+        {
+          "id": "asr6",
+          "status": "tentative"
+        },
+        {
+          "id": "gx1",
+          "status": "tentative"
+        },
+        {
+          "id": "vf4",
+          "status": "tentative"
+        },
+        {
+          "id": "ai6",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "applicants": [
+        {
+          "id": "dingdangbmw",
+          "rating": "C"
+        },
+        {
+          "id": "cnj1",
+          "rating": "A"
+        },
+        {
+          "id": "io1",
+          "rating": "A"
+        },
+        {
+          "id": "aas10",
+          "rating": "A"
+        },
+        {
+          "id": "occ1",
+          "rating": "C"
+        },
+        {
+          "id": "ahm2",
+          "rating": "C"
+        },
+        {
+          "id": "Su1",
+          "rating": "C"
+        },
+        {
+          "id": "el12",
+          "rating": "B"
+        },
+        {
+          "id": "ss54",
+          "rating": "C"
+        },
+        {
+          "id": "gml2",
+          "rating": "A"
+        },
+        {
+          "id": "lal4",
+          "rating": "C"
+        },
+        {
+          "id": "ar21",
+          "rating": "C"
+        },
+        {
+          "id": "zsq1",
+          "rating": "C"
+        },
+        {
+          "id": "nr10",
+          "rating": "C"
+        },
+        {
+          "id": "zmb3",
+          "rating": "A"
+        },
+        {
+          "id": "aki1",
+          "rating": "A"
+        },
+        {
+          "id": "ado3",
+          "rating": "A"
+        },
+        {
+          "id": "ado3",
+          "rating": "A"
+        },
+        {
+          "id": "ado3",
+          "rating": "A"
+        },
+        {
+          "id": "cjt3",
+          "rating": "A"
+        },
+        {
+          "id": "mcb12",
+          "rating": "A"
+        },
+        {
+          "id": "jgs4",
+          "rating": "B"
+        },
+        {
+          "id": "jjm9",
+          "rating": "A"
+        },
+        {
+          "id": "cs27",
+          "rating": "A"
+        },
+        {
+          "id": "hd10",
+          "rating": "C"
+        },
+        {
+          "id": "jgl4",
+          "rating": "A"
+        },
+        {
+          "id": "nss3",
+          "rating": "A"
+        },
+        {
+          "id": "bm28",
+          "rating": "C"
+        }
+      ],
+      "roster": [
+        {
+          "id": "cs27",
+          "status": "approved"
+        },
+        {
+          "id": "cnj1",
+          "status": "approved"
+        },
+        {
+          "id": "gml2",
+          "status": "approved"
+        },
+        {
+          "id": "zmb3",
+          "status": "tentative"
+        },
+        {
+          "id": "aki1",
+          "status": "tentative"
+        },
+        {
+          "id": "mw20",
+          "status": "tentative"
+        },
+        {
+          "id": "ado3",
+          "status": "tentative"
+        },
+        {
+          "id": "io1",
+          "status": "tentative"
+        },
+        {
+          "id": "nss3",
+          "status": "tentative"
+        },
+        {
+          "id": "jjm9",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "id": "334",
+      "applicants": [
+        {
+          "id": "mw20",
+          "rating": "C"
+        },
+        {
+          "id": "ta13",
+          "rating": "C"
+        },
+        {
+          "id": "cnj1",
+          "rating": "C"
+        },
+        {
+          "id": "pcr1",
+          "rating": "C"
+        },
+        {
+          "id": "nl14",
+          "rating": "C"
+        },
+        {
+          "id": "myw1",
+          "rating": "C"
+        },
+        {
+          "id": "saw9",
+          "rating": "C"
+        }
+      ],
+      "roster": []
+    },
+    {
+      "id": "361",
+      "applicants": [
+        {
+          "id": "jmb13",
+          "rating": "A"
+        },
+        {
+          "id": "ngt2",
+          "rating": "C"
+        },
+        {
+          "id": "ddz1",
+          "rating": "C"
+        },
+        {
+          "id": "sjo2",
+          "rating": "C"
+        },
+        {
+          "id": "lcw4",
+          "rating": "C"
+        }
+      ],
+      "roster": [
+        {
+          "id": "lcw4",
+          "status": "approved"
+        },
+        {
+          "id": "ngt2",
+          "status": "approved"
+        },
+        {
+          "id": "ddz1",
+          "status": "approved"
+        },
+        {
+          "id": "jmb13",
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "id": "375",
+      "applicants": [
+        {
+          "id": "arl6",
+          "rating": "A"
+        },
+        {
+          "id": "sca1",
+          "rating": "C"
+        }
+      ],
+      "roster": [
+        {
+          "id": "arl6",
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "id": "381",
+      "applicants": [
+        {
+          "id": "mdl4",
+          "rating": "A"
+        },
+        {
+          "id": "jjm9",
+          "rating": "B"
+        },
+        {
+          "id": "ngt2",
+          "rating": "B"
+        },
+        {
+          "id": "mjf5",
+          "rating": "A"
+        }
+      ],
+      "roster": [
+        {
+          "id": "mdl4",
+          "status": "approved"
+        },
+        {
+          "id": "mjf5",
+          "status": "approved"
+        }
+      ]
+    },
+    {
+      "id": "376",
+      "applicants": [
+        {
+          "id": "mia1",
+          "rating": "C"
+        }
+      ],
+      "roster": []
+    }
+  ],
+  "recommendations": {
+    "katie keith": {
+      "aka2": "B",
+      "jc34": "A",
+      "ew14": "B",
+      "dingdangbmw": "U",
+      "ess3": "A",
+      "jsp5": "C",
+      "Su1": "U",
+      "jag22": "B",
+      "ss54": "C",
+      "sp29": "A",
+      "lal4": "C",
+      "ar21": "B",
+      "zsq1": "C",
+      "zmb3": "B",
+      "arl6": "A",
+      "jgs4": "C",
+      "jjm9": "A",
+      "wos1": "A",
+      "brd2": "B",
+      "lkh3": "B",
+      "lm24": "A",
+      "saw9": "A",
+      "sca1": "U",
+      "cp15": "B",
+      "mw20": "A",
+      "tb13": "B",
+      "su1": "C"
+    },
+    "jeannie albrecht": {
+      "aka2": "U",
+      "njv1": "B",
+      "hsa1": "A",
+      "cnj1": "A",
+      "io1": "C",
+      "occ1": "U",
+      "kdk3": "A",
+      "tef2": "A",
+      "el12": "D",
+      "asr6": "A",
+      "soy1": "A",
+      "tb13": "C",
+      "cmt8": "B",
+      "rj6": "A",
+      "dem6": "C",
+      "yik1": "B",
+      "ado3": "C",
+      "arl6": "A",
+      "cjt3": "A",
+      "dw8": "C",
+      "mcb12": "A",
+      "mjf5": "B",
+      "jhd1": "A",
+      "pr5": "A",
+      "bch6": "U",
+      "djp5": "U",
+      "sjo2": "B",
+      "mdl4": "A"
+    },
+    "jim bern": {
+      "jc34": "A",
+      "ew14": "U",
+      "njv1": "A",
+      "gx1": "B",
+      "hsa1": "A",
+      "occ1": "C",
+      "ebl2": "A",
+      "ahm2": "B",
+      "kdk3": "A",
+      "mb33": "B",
+      "njc2": "B",
+      "cjc11": "B",
+      "sp29": "A",
+      "soy1": "A",
+      "cmt8": "A",
+      "rj6": "B",
+      "nr10": "B",
+      "dem6": "C",
+      "yik1": "A",
+      "lnm1": "C",
+      "aki1": "C",
+      "cjt3": "A",
+      "mdl4": "A",
+      "ai6": "B",
+      "myw1": "B",
+      "agm6": "C",
+      "ado2": "A",
+      "wos1": "U",
+      "hf7": "A",
+      "pr5": "B",
+      "bch6": "B",
+      "sjo2": "U",
+      "hd10": "A",
+      "lgk1": "A",
+      "saw9": "A",
+      "nss3": "B",
+      "sjb5": "U",
+      "bm28": "C",
+      "jhh3": "A",
+      "brl2": "B"
+    },
+    "lida doret": {
+      "brl2": "U",
+      "aas10": "A",
+      "ebl2": "A",
+      "tef2": "A",
+      "njc2": "B",
+      "jag22": "A",
+      "gml2": "A",
+      "tt9": "C",
+      "mcb12": "A",
+      "al33": "B",
+      "jhd1": "A",
+      "jgl4": "B",
+      "atx1": "A",
+      "cnj1": "A",
+      "kk12": "A",
+      "ess3": "A",
+      "mb33": "A",
+      "sp29": "A",
+      "ttn2": "B",
+      "hf7": "B",
+      "sjo2": "B",
+      "jmb13": "A",
+      "cp15": "B",
+      "agm6": "D",
+      "bm28": "C",
+      "su1": "C",
+      "lnm1": "C",
+      "jgs4": "C"
+    },
+    "dan barowy": {
+      "brl2": "U",
+      "tum1": "A",
+      "mw20": "A",
+      "ta13": "B",
+      "cnj1": "A",
+      "akm4": "D",
+      "mb33": "A",
+      "jk26": "C",
+      "pcr1": "A",
+      "jmb13": "A",
+      "lnm1": "C",
+      "myw1": "C",
+      "vs9": "B",
+      "mf14": "U",
+      "ddz1": "B",
+      "sjo2": "B",
+      "nss3": "D",
+      "mia1": "U",
+      "sp29": "B",
+      "ewj1": "B",
+      "pr5": "A",
+      "hf7": "A",
+      "soy1": "A",
+      "saw9": "A",
+      "mdl4": "A",
+      "mjf5": "B",
+      "tb13": "C",
+      "jjm9": "B",
+      "hsa1": "A",
+      "nl14": "C"
+    },
+    "bill jannen": {
+      "tum1": "B",
+      "aa33": "B",
+      "akm4": "C",
+      "io1": "C",
+      "ss54": "B",
+      "tb13": "B",
+      "kk12": "A",
+      "ado3": "U",
+      "dw8": "B",
+      "ttn2": "B",
+      "al33": "B",
+      "ddz1": "A",
+      "cs27": "B",
+      "vf4": "U",
+      "ewj1": "A",
+      "tyk1": "U",
+      "djp5": "U"
+    },
+    "rohit bhattacharya": {
+      "dingdangbmw": "U",
+      "aas10": "A",
+      "pcr1": "A",
+      "htq1": "A",
+      "hrp3": "B",
+      "aki1": "B",
+      "nl14": "A",
+      "ai6": "C",
+      "agm6": "A",
+      "hf7": "A",
+      "lkh3": "U",
+      "sca1": "U",
+      "mw20": "D",
+      "tb13": "A"
+    },
+    "sam mccauley": {
+      "mw20": "A",
+      "gx1": "B",
+      "el12": "B",
+      "jk26": "B",
+      "cjc11": "B",
+      "jmb13": "A",
+      "ttn2": "B",
+      "ado2": "A",
+      "mjf5": "A",
+      "brd2": "U",
+      "vf4": "B",
+      "sjb5": "U",
+      "tyk1": "U",
+      "lcw4": "U",
+      "mdl4": "A",
+      "asr6": "B",
+      "myw1": "B"
+    },
+    "mark hopkins": {
+      "ta13": "C",
+      "asr6": "A",
+      "mf14": "C",
+      "lm24": "A",
+      "lgk1": "A",
+      "ngt2": "B"
+    },
+    "shikha singh": {
+      "aa33": "U",
+      "Su1": "U",
+      "lal4": "D",
+      "tt9": "C",
+      "zmb3": "B",
+      "kk12": "A",
+      "nl14": "U",
+      "jgl4": "U",
+      "bm28": "B",
+      "atx1": "U",
+      "su1": "B"
+    },
+    "steve freund": {
+      "ess3": "A",
+      "gml2": "A",
+      "jjm9": "A",
+      "cs27": "A"
+    },
+    "iris howley": {
+      "jsp5": "A",
+      "ahm2": "C",
+      "zsq1": "C",
+      "jgs4": "D",
+      "ewj1": "B",
+      "mia1": "U",
+      "io1": "C",
+      "aas10": "B",
+      "mcb12": "A",
+      "tef2": "B",
+      "jhd1": "A",
+      "ttn2": "C",
+      "lm24": "B",
+      "bch6": "C",
+      "vs9": "B",
+      "sjo2": "B",
+      "ngt2": "B",
+      "tb13": "C",
+      "jmb13": "B",
+      "mf14": "C"
+    },
+    "aaron williams": {
+      "ar21": "U",
+      "htq1": "A",
+      "ngt2": "B",
+      "lcw4": "A",
+      "sjo2": "A"
+    },
+    "kelly shaw": {
+      "hrp3": "B",
+      "vs9": "A"
+    }
+  }
+}
